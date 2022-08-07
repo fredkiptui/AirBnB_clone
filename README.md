@@ -62,9 +62,3 @@ This allows the storage to be reloaded automatically at initialization, which re
 
 All the code is tested with the **unittest** module.
 The test for the classes are in the [test_models](./tests/test_models/) folder.
-
-## Authors
-
-- [Johnelsaphiree](https://github.com/johnelsaphiree) ~ [LinkedIn](https://www.linkedin.com/in/johnelsaphire/) ~ [@johnelsaphiree](https://twitter.com/johnelsaphire):
-*Sharpening my skills at Holberton School of Software Engineering. I have a lifelong passion for programming with a background in mathematics and a daily meditation practice. Spent the last several years enjoying working as a private tutor and am now excited to practice software wizardry professionally.*
-- **Miss Kiruri** - [miss.kiruri@gmail.com](https://github.com/misskiruri)
